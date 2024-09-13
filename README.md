@@ -1,3 +1,7 @@
+#Video de explicacion de como ejecutar el proyecto 
+
+https://github.com/user-attachments/assets/ff8fd3ea-df9e-4f69-b400-919d324ae223
+
 # Camara-Comercio
 # Chat Ejercicio
 
